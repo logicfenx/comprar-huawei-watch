@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/comprar-huawei-watch",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a comprar-huawei-watch",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/comprar-huawei-watch.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/comprar-huawei-watch-gt-7/"
+    },
+    "homepage": "https://isproto.com/comprar-huawei-watch-gt-7/"
+}
